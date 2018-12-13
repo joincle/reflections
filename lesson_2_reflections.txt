@@ -4,12 +4,18 @@ needed.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+working directory -> the stage area -> the repository
+the working directory is files you working with.
+the staging area is the files used for git commit.
+the repository is all the files contained all the commit history and all the files 
 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+backup the master, and more experimenting and trying based on existing code without breaking
+them, and push the project forward.
 
 How do the diagrams help you visualize the branch structure?
 
