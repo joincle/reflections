@@ -1,5 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
-
+When you use the command git init, .git file is created. Version control was
+needed.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
