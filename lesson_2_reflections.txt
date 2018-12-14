@@ -21,6 +21,8 @@ backup the master, and more experimenting and trying based on existing code with
 them, and push the project forward.
 
 How do the diagrams help you visualize the branch structure?
+the diagrams uses different symbols to show the branch structure.
+it's really help to see the branch structure.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
